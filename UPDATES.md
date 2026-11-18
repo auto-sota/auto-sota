@@ -5,7 +5,6 @@ What has been added to [autosota.com](https://autosota.com), newest first. New c
 ## Coming next
 
 - New languages: French, Spanish, Portuguese and Arabic
-- Car diagrams: the car maker's exploded-view drawings for your car, with the parts list for each
 
 ## November 2026
 
