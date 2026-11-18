@@ -9,6 +9,8 @@ What has been added to [autosota.com](https://autosota.com), newest first. New c
 
 ## November 2026
 
+- **Car diagrams.** The car maker's own exploded-view drawings, with every part you can buy numbered.
+- **Volkswagen group and Renault factory catalogs.** With factory parts drawings and VIN search.
 - **List look-up.** Paste a whole list of part numbers and get every brand back as one price sheet.
 - **Cross reference page.** How dealer, aftermarket and superseded numbers relate, with worked examples from the catalog.
 - **Spark plug cross reference chart.** NGK, Denso, Bosch, Champion and Beru plugs matched to each other by thread, reach, hex and seat.
