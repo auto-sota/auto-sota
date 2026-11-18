@@ -71,6 +71,8 @@ Auto Sota is a catalog, not a store. Prices are estimates, so you know what a pa
 
 ## Recently added
 
+- **Car diagrams**: the car maker's own exploded-view drawings, with every part you can buy numbered
+- **Volkswagen group and Renault factory catalogs**, with factory parts drawings and VIN search
 - **List look-up**: paste a whole list of part numbers and get every brand back as one price sheet
 - **Check my car**: save your car once and every part page tells you if the part fits it
 - **Spark plug cross reference chart** and a cross reference page with worked examples
@@ -85,7 +87,6 @@ The full list is in [UPDATES.md](UPDATES.md).
 ## Coming next
 
 - **New languages**: French, Spanish, Portuguese and Arabic
-- **Car diagrams**: the car maker's exploded-view drawings for your car, with the parts list for each
 - **New catalogs every day**
 
 ## Something missing?
